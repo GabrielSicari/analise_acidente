@@ -24,7 +24,6 @@ temp/
 *.sqlite3
 
 # Arquivos do Power BI
-*.pbix
 *.pbit
 
 # Ambiente virtual Python
