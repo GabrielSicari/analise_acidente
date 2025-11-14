@@ -1,0 +1,66 @@
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Pastas comuns de dados temporários
+data/raw/
+data/tmp/
+data/temp/
+tmp/
+temp/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados automaticamente
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos do Power BI
+*.pbix
+*.pbit
+
+# Ambiente virtual Python
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Configurações locais
+*.env
+*.env.*
+.envrc
+*.local.*
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache de ferramentas
+.ipynb_checkpoints
+.mypy_cache/
+.pytype/
+.pytest_cache/
+.cache/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VSCode e outros editores
+.vscode/
+*.code-workspace
+.idea/
+*.iml
