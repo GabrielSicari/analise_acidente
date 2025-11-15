@@ -1,5 +1,5 @@
 # analise_acidente
 
-df raw
-
-DataViz.pbix - arquivo powerbi (segunda etapa)
+df raw (dados iniciais)
+dados limpos.csv (dados pós python)
+DataViz.pbix - arquivo powerbi (feito com dados limpos.csv)
